@@ -57,7 +57,7 @@ FIGURE-02
 ![REXP1 22](https://github.com/SriSaiPriyaSenthilvel/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119475702/96386755-7c92-4c78-aea5-b51e16304459)
 
 ## PROGRAM 
- 
+ ```
 int led=4;
 int pushbutton=3;
 void setup()
@@ -83,11 +83,12 @@ void loop()
     digitalWrite(led,LOW);
   }
 } 
-
+```
 ## OUTPUT OF SIMULATION :
 
 ![Screenshot (108)](https://github.com/SriSaiPriyaSenthilvel/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119475702/898952e1-1012-489d-a080-ecf9a29a6b35)
 
 ![Screenshot (109)](https://github.com/SriSaiPriyaSenthilvel/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119475702/6b7edd01-a457-4c39-ab96-1daa48457af2)
 
-
+## RESULT:
+Thus, the Simulation output on interfacing digital input sensor with arduino has been completed in Tinkercad.
